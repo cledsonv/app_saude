@@ -44,3 +44,8 @@ app.*.map.json
 /android/app/release
 .metadata
 pubspec.lock
+windows
+linux
+macos
+web
+ios
